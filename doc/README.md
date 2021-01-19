@@ -45,11 +45,11 @@ npm i babel-plugin-transform-lang-cli --save-dev
 
 ast分析图解
 
-![](./doc/bable-type.png)
+![](../doc/bable-type.png)
  
 ast分析图解对照详解
 
-![](./doc/lexical.png)
+![](../doc/lexical.png)
  
 示例分析图
 

@@ -15,7 +15,10 @@ npm install --save-dev babel-plugin-transform-lang-cli
 ## 1. 配置.babelrc,实现中文提取
 查看详细配置和原理，请参考
 
-[babel-plugin-transform-lang-cli](https://www.npmjs.com/package/babel-plugin-transform-lang-cli)
+[babel-plugin-transform-lang-cli](https://github.com/tinper-acs/lang-demo/blob/main/doc/README.md)
+
+https://www.npmjs.com/package/babel-plugin-transform-lang-cli
+
 
 ```js
 
